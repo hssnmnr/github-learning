@@ -1,0 +1,1 @@
+const logoutpage = true;
