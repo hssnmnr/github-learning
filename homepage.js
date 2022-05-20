@@ -1,2 +1,2 @@
 const homepage = true;
-const userAuth = false;
+const userAuth = true;
